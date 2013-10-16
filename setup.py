@@ -10,7 +10,7 @@ setup(
     author_email='caleb@prettymint.co.nz',
     packages=['transcribeme', 'transcribeme.tests'],
     url='http://github.com/tuttinator/transcribeme-py',
-    license='LICENSE.txt',
+    license='LICENSE',
     description='TranscribeMe SOAP API wrapper',
     test_suite='transcribeme.tests.get_suite'
 )
